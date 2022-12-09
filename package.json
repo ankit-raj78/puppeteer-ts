@@ -1,0 +1,26 @@
+{
+  "name": "puppeteer-ts",
+  "version": "1.0.0",
+  "description": "html to pdf using headless puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankit-raj78/puppeteer-ts.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "ankit.raj-78",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankit-raj78/puppeteer-ts/issues"
+  },
+  "homepage": "https://github.com/ankit-raj78/puppeteer-ts#readme",
+  "dependencies": {
+    "fs-extra": "^11.1.0",
+    "puppeteer": "^19.4.0"
+  }
+}
